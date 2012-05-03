@@ -10,7 +10,7 @@
 #Date:
 #05.05.96
 #
-#Deck list: 
+#Deck list:
 5 Bizarre Encryption Scheme
 1 Ice Pick Willie
 4 Neural Blade 

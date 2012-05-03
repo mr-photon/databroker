@@ -10,16 +10,16 @@
 #Date:
 #2004
 #
-#Decklist:
-#6 Edgerunner, Inc., Temps
-#4 Project Consultants
-#26 Team Restructuring
-#14 Theorem Proof
-#6 ACME Savings and Loan
-#20 Executive Boot Camp
-#4 Pacifica Regional AI
-#20 Panic Button
-#
+#Deck list:
+6 Edgerunner, Inc., Temps
+4 Project Consultants
+26 Team Restructuring
+14 Theorem Proof
+6 ACME Savings and Loan
+20 Executive Boot Camp
+4 Pacifica Regional AI
+20 Panic Button
+
 #Description:
 #A variant to the Big Button deck that makes use of Theorem Proof. 
 #Instead of pillaging the Archives with Stereogram Antibodies the corp 

@@ -1,5 +1,5 @@
 #Theme:
-#Clown
+#
 #
 #Tournament:
 #German Nationals 2000
@@ -8,21 +8,34 @@
 #Günther Bogdan
 #
 #Deck list:
-6 Bodyweight {TM} Synthetic Blood
-4 Jack 'n' Joe
-2 MIT West Tier
-3 Pirate Broadcast
-6 Valu-Pak Software Bundle
-6 Clown
-1 Codecracker
-1 Emergency Self-Construct
-1 Force Shield
-1 Highlighter
-4 Imp
-1 Newsgroup Filter
-3 Succubus
-1 Viral Pipeline
-1 Wild Card
-1 Wrecking Ball
-4 Zetatech Software Installer
-4 Top Runners' Conference
+4 Corporate War
+2 Employee Empowerment
+1 Bolter Cluster
+1 Cerberus
+1 Code Corpse
+1 Cortical Scrub
+1 D' Arc Knight
+1 Data Darts
+1 Data Wall
+1 Fang
+1 Fang 2.0
+1 Filter
+1 Keeper
+1 Mazer
+1 Pi in the 'Face
+1 Scramble
+2 Shotgun Wire
+1 Sleeper
+1 Triggerman
+3 BBS Whispering Campaign
+2 Chicago Branch
+1 Department of Truth Enhancement
+1 Pacifica Regional AI
+1 Rockerboy Promotion
+1 Strategic Planning Group
+1 TRAP!
+1 Vapor Ops
+6 Accounts Receivable
+1 Credit Consolidation
+2 Management Shake-Up
+1 Project Consultants

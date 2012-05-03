@@ -10,14 +10,15 @@
 #Date:
 #Sun Aug 24, 2008 10:41 pm
 #
-#7 Pacifica Regional AI
-#2 Glacier
-#7 Team Restructuring
-#7 Edgerunner, Inc., Temps 
-#9 Security Purge 
-#3 Misleading Access Menus 
-#10 Colonel Failure 
-#
+#Deck list:
+7 Pacifica Regional AI
+2 Glacier
+7 Team Restructuring
+7 Edgerunner, Inc., Temps 
+9 Security Purge 
+3 Misleading Access Menus 
+10 Colonel Failure 
+
 #Description:
 #This Turn-One-Score variant is not as much reliable as the others. It can be 
 #quite powerful though: Imagine to install a Colonel Failure in front of HQ in 
